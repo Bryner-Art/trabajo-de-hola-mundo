@@ -1,0 +1,21 @@
+body{
+	 margin: 0;
+  padding: 0;
+  font-family: "Luckiest Guy";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh	;
+  background: teal;
+  text-align: center;
+
+}
+.texto{
+  font-size: 50px;
+  color: white;
+  text-shadow: 1px 1px 0px #a9a9a9, 2px 2px 0px #a2a2a2, 3px 3px 0px #b5b5b5,
+                   4px 4px 0px black,
+                   5px 5px 0px black,
+                   10px 10px 3px black;
+
+}
